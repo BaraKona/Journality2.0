@@ -1,0 +1,10 @@
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\bin\Debug\Journality2.0.exe.config
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\bin\Debug\Journality2.0.exe
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\bin\Debug\Journality2.0.pdb
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2._0.Properties.Resources.resources
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2.0.csproj.GenerateResource.cache
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2.0.csproj.CoreCompileInputs.cache
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2.0.exe
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2.0.pdb
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2._0.JournalityMainForm.resources
+C:\Users\bkona\source\repos\Journality2.0\Journality2.0\obj\Debug\Journality2.0.csprojAssemblyReference.cache
